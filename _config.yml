@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Control Theory - Learning & Safety-Critical"
   location         : "Hanoi, Vietnam"
-  employer         : "Hanoi University of Science and Techonology"
+  # employer         : "Hanoi University of Science and Techonology"
   uri              : # URL
   email            : "phungminhhiep42@gmail.com" 
 
