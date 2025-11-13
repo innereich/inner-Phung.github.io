@@ -11,3 +11,4 @@ redirect_from:
 
 Recent News
 ======
+- [01/2025] My paper is pulished in Computers and Electrical Engineering (Q1)
