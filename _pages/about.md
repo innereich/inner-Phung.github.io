@@ -11,8 +11,8 @@ redirect_from:
 
 News
 ======
-- **[04/2026]** Paper published in *Automation in Construction*.
-- **[02/2026]** First-author paper published in *Systems & Control Letters*.
+- **[04/2026]** [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580526002232) published in **Automation in Construction**.
+- **[02/2026]** [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167691126000617) published in **Systems & Control Letters**. 
 - **[07/2025]** Recipient of the **Best Graduation Thesis Award** at the Defense Ceremony, HUST.
 - **[05/2025]** Won **First Prize – Excellence Award** sponsored by PIXTA Vietnam, and **Second Prize** at the 42nd Student Research Conference of HUST.
-- **[01/2025]** First paper was published in *Computers & Electrical Engineering*.
+- **[01/2025]** [First paper](https://www.sciencedirect.com/science/article/abs/pii/S0045790624007961) published in **Computers & Electrical Engineering**.
