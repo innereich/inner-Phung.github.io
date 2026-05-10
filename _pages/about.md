@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- I received my Bachelor of Engineering in Control Engineering and Automation (Talent Program) from Hanoi University of Science and Technology (HUST). My research interests include Control Theory, Machine Learning, and Optimization, with a focus on the safety and trustworthiness of intelligent systems.
+ I received my Bachelor of Engineering in Control Engineering and Automation (Talent Program) from [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST). My research interests include **Control Theory** and **Machine Learning**, with a focus on the safety and trustworthiness of intelligent systems.
 
 News
 ======
